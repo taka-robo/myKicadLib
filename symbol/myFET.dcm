@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CSD88584Q5DC
+F http://www.ti.com/lit/ds/symlink/csd88584q5dc.pdf
+$ENDCMP
+#
 $CMP PSMN2R4-30MLD
 F https://assets.nexperia.com/documents/data-sheet/PSMN2R4-30MLD.pdf
 $ENDCMP
